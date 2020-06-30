@@ -1,0 +1,3 @@
+  Issued                Expires               Principal
+Jun 30 13:31:50 2020  Jun 30 23:31:50 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
+Jun 30 13:31:52 2020  Jun 30 23:31:50 2020  HTTP/student-storage.42seoul.kr@42SEOUL.KR
